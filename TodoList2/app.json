@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Tod",
+    "slug": "Tod",
+    "version": "1.0.0",
+    "displayName": "TodoList",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.Todo"
+    },
+    "ios": {
+      "bundleIdentifier": "com.Todo"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "39813b1f-06c2-4928-9092-06b477b859ad"
+      }
+    }
+  }
+}
